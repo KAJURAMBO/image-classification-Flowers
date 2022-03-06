@@ -1,11 +1,13 @@
 # Z by HP Unlocked Challenge 4
-Z by HP Unlocked Challenge 4 - Image Classification. https://youtu.be/KsEFs9uRk74
+Z by HP Unlocked Challenge 4 - Image Classification. 
+
+![La Eterna](data_cleaned/Train/la_eterna/la_eterna_14.jpg?raw=True "La Eterna") ![Other Flower](data_cleaned/Train/other_flowers/flower_451.jpg?raw=True "Other Flower")
 
 ## The Task
 The challenge is to build a machine learning model to classify images of "La Eterna". This can be done in a variety of ways. For this tutorial we will be focusing on building an image classification using artificial neural nets (ANN). 
 
 ## What is Unlocked?
-Unlocked is an action-packed interactive film made bt Z by HP for data scientists. Sharpen your skills and solve the data driven mystery here: https://www.clkmg.com/learnmedia/keithgalli. <br/><br/>
+Unlocked is an action-packed interactive film made bt Z by HP for data scientists. Sharpen your skills and solve the data driven mystery here: https://www.clkmg.com/learnmedia/keithgalli. <br/>
 
 You'll want to click "Start the Adventure" and then click "Next Challenge" until you reach Challenge 4.
 
