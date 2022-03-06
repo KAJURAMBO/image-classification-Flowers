@@ -17,7 +17,7 @@ The data is split into a training and a submission set. The repo includes two la
 ## Where to Start
 We have provided some starter code and a full tutorial video on how to approach this problem. All the models that we built can be tweaked and improved upon. 
 
-## Previous Videos of mine that will be Helpful
+## Previous Videos of Mine that will be Helpful
 * [Introduction to Neural Networks in Python | Tensorflow/Keras](https://youtu.be/aBIGJeHRZLQ)
 * [Real-World Python Neural Nets Tutorial (Image Classification w/ CNN)](https://youtu.be/44U8jJxaNp8)
 
